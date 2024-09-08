@@ -4,8 +4,3 @@ function armazenarValor() {
   const valorArmazenado = valorDigitado;
   console.log(valorArmazenado,'Salvo com sucesso!');
 }
-
-if (!email(0)) {
-
-    return
-}
