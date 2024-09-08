@@ -1,4 +1,3 @@
-Markdown
 ## Mestres do Espresso
 
 ### Descrição
